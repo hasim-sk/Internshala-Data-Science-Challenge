@@ -1,5 +1,5 @@
 # Internshala Data Science Challenge
-Rank 4 Public Leaderboard solution
+Rank 4th Public Leaderboard solution
 
 # Link
 https://datahack.analyticsvidhya.com/contest/internshala-data-science-challenge-24/#LeaderBoard
