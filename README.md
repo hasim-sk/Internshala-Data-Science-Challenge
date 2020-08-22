@@ -1,3 +1,9 @@
+# Internshala Data Science Challenge
+Rank 4 Public Leaderboard solution
+
+# Link
+https://datahack.analyticsvidhya.com/contest/internshala-data-science-challenge-24/#LeaderBoard
+
 # Project Problem Statement
 Your client is an Insurance company and they need your help in building a model to predict
 whether the policyholder (customer) will pay next premium on time or not.
